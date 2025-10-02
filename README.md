@@ -15,7 +15,8 @@ I’m constantly improving, so stay tuned!
 <p align="left" style="font-size: 18px;">
 - 🚀 Just started my journey as a Computer Science student <br>
 - 💻 Currently learning Java and improving my coding skills <br>
-- 💫 Outside of studying, I enjoy music and relaxing
+- 💫 Outside of studying, i enjoy music and relaxing, and watching anime series,
+-🥛 i love milo sOoo much ! ><
 </p>
 
 ###
